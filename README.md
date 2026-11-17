@@ -47,9 +47,12 @@ The approved questions are whether cleaning choices change risk predictions, whe
 
 Borghesi, A. et al. (2023). *M100 dataset: time-aggregated data for anomaly detection*. Zenodo. https://doi.org/10.5281/zenodo.7541722. CC BY 4.0.
 
+## Quick presentation demo
 
+To show the saved baseline result without retraining, run:
 
+```bash
+docker compose run --rm spark /opt/spark/bin/spark-submit --master 'local[*]' /workspace/src/show_baseline_demo.py
+```
 
-
-
-
+This reads the saved sample metrics, prints five largest feature weights, and displays a few saved held-out risk scores. It does not fit the model again. The full baseline command above takes much longer.
