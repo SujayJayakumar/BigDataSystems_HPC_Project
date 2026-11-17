@@ -1,0 +1,8 @@
+data/
+outputs/
+evidence/
+logs/
+.git/
+.venv/
+__pycache__/
+*.py[cod]

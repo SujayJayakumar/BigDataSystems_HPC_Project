@@ -1,0 +1,12 @@
+services:
+  spark:
+    build: .
+    image: m100-spark:3.5.3
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    ports:
+      - "4040:4040"
+    environment:
+      SPARK_LOCAL_DIRS: /workspace/data/tmp
+    command: ["sleep", "infinity"]

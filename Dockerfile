@@ -1,0 +1,3 @@
+FROM apache/spark:3.5.3-python3
+USER root
+RUN python3 -m pip install --no-cache-dir numpy==1.24.4 pandas==1.5.3

@@ -1,0 +1,310 @@
+{
+  "title": "M100 dataset: time-aggregated data for anomaly detection",
+  "doi": "10.5281/zenodo.7541722",
+  "license": "cc-by-4.0",
+  "source": "https://zenodo.org/api/records/7541722",
+  "downloaded_at_utc": "2026-11-17T08:12:20Z",
+  "expected_archive_bytes": 24781721600,
+  "files": [
+    {
+      "key": "17.tar",
+      "size": 509859840,
+      "checksum": "md5:8c06f6ea698fe13cf96dffb43487998e",
+      "url": "https://zenodo.org/api/records/7541722/files/17.tar/content"
+    },
+    {
+      "key": "37.tar",
+      "size": 435834880,
+      "checksum": "md5:357f8d854509b06b21333f9f71526761",
+      "url": "https://zenodo.org/api/records/7541722/files/37.tar/content"
+    },
+    {
+      "key": "48.tar",
+      "size": 497735680,
+      "checksum": "md5:1eec14ba23f74a4af8e004ed9f4e0e1b",
+      "url": "https://zenodo.org/api/records/7541722/files/48.tar/content"
+    },
+    {
+      "key": "8.tar",
+      "size": 584028160,
+      "checksum": "md5:fd60d0e308348929915fd95d5e1a6b3e",
+      "url": "https://zenodo.org/api/records/7541722/files/8.tar/content"
+    },
+    {
+      "key": "26.tar",
+      "size": 455116800,
+      "checksum": "md5:c9ab8bd92fe9843a12cb4fa4fffa6861",
+      "url": "https://zenodo.org/api/records/7541722/files/26.tar/content"
+    },
+    {
+      "key": "9.tar",
+      "size": 562636800,
+      "checksum": "md5:646786fea4a992948cce586e646b77a9",
+      "url": "https://zenodo.org/api/records/7541722/files/9.tar/content"
+    },
+    {
+      "key": "5.tar",
+      "size": 296663040,
+      "checksum": "md5:a2901f5006ebb0841338decaf8795861",
+      "url": "https://zenodo.org/api/records/7541722/files/5.tar/content"
+    },
+    {
+      "key": "43.tar",
+      "size": 500377600,
+      "checksum": "md5:9435eed9c0fecd0f4fb2971c06a8c89b",
+      "url": "https://zenodo.org/api/records/7541722/files/43.tar/content"
+    },
+    {
+      "key": "47.tar",
+      "size": 510218240,
+      "checksum": "md5:6bad90d6bec73079d7892859d6c8cb8b",
+      "url": "https://zenodo.org/api/records/7541722/files/47.tar/content"
+    },
+    {
+      "key": "3.tar",
+      "size": 449064960,
+      "checksum": "md5:838af5a2775b753fb964f06376e921fd",
+      "url": "https://zenodo.org/api/records/7541722/files/3.tar/content"
+    },
+    {
+      "key": "16.tar",
+      "size": 519311360,
+      "checksum": "md5:b0cd1d24a33cb2e13c7d4b4ff1651549",
+      "url": "https://zenodo.org/api/records/7541722/files/16.tar/content"
+    },
+    {
+      "key": "15.tar",
+      "size": 489297920,
+      "checksum": "md5:66ad9ff2afbff27a557c5a82af80ddfb",
+      "url": "https://zenodo.org/api/records/7541722/files/15.tar/content"
+    },
+    {
+      "key": "27.tar",
+      "size": 513966080,
+      "checksum": "md5:9de6a827bfeff99b36a9e7675272fa93",
+      "url": "https://zenodo.org/api/records/7541722/files/27.tar/content"
+    },
+    {
+      "key": "42.tar",
+      "size": 538460160,
+      "checksum": "md5:474580e0a2634c800cc8d71fd22afd76",
+      "url": "https://zenodo.org/api/records/7541722/files/42.tar/content"
+    },
+    {
+      "key": "24.tar",
+      "size": 450211840,
+      "checksum": "md5:7acce9bbdf64092fe9d5796fbc7d1167",
+      "url": "https://zenodo.org/api/records/7541722/files/24.tar/content"
+    },
+    {
+      "key": "29.tar",
+      "size": 522496000,
+      "checksum": "md5:a3eace84e42c8cce0364b925db3e1833",
+      "url": "https://zenodo.org/api/records/7541722/files/29.tar/content"
+    },
+    {
+      "key": "2.tar",
+      "size": 518154240,
+      "checksum": "md5:81b29652d655f09715ef3429990916a8",
+      "url": "https://zenodo.org/api/records/7541722/files/2.tar/content"
+    },
+    {
+      "key": "25.tar",
+      "size": 535869440,
+      "checksum": "md5:578ebfeed6d651c07f3eb2b227479db0",
+      "url": "https://zenodo.org/api/records/7541722/files/25.tar/content"
+    },
+    {
+      "key": "36.tar",
+      "size": 520273920,
+      "checksum": "md5:fbe74ec00b176004fd9ce2876c043112",
+      "url": "https://zenodo.org/api/records/7541722/files/36.tar/content"
+    },
+    {
+      "key": "35.tar",
+      "size": 540303360,
+      "checksum": "md5:e747879087a800683c9224b16f19d80a",
+      "url": "https://zenodo.org/api/records/7541722/files/35.tar/content"
+    },
+    {
+      "key": "39.tar",
+      "size": 525977600,
+      "checksum": "md5:9027a7550e249fe146c2dc6a1c9eaa27",
+      "url": "https://zenodo.org/api/records/7541722/files/39.tar/content"
+    },
+    {
+      "key": "23.tar",
+      "size": 444692480,
+      "checksum": "md5:ba1dd79fbeea08f15d0afffbe7e773d3",
+      "url": "https://zenodo.org/api/records/7541722/files/23.tar/content"
+    },
+    {
+      "key": "34.tar",
+      "size": 579276800,
+      "checksum": "md5:03b96b3840f3e5e44715bb5189365d4d",
+      "url": "https://zenodo.org/api/records/7541722/files/34.tar/content"
+    },
+    {
+      "key": "22.tar",
+      "size": 448286720,
+      "checksum": "md5:be05e8e011bf806eac0f6859387040ef",
+      "url": "https://zenodo.org/api/records/7541722/files/22.tar/content"
+    },
+    {
+      "key": "33.tar",
+      "size": 442142720,
+      "checksum": "md5:7def9a7d0468b7aca69068de7f01467d",
+      "url": "https://zenodo.org/api/records/7541722/files/33.tar/content"
+    },
+    {
+      "key": "other.tar",
+      "size": 81920,
+      "checksum": "md5:7700b1443d0fbd0bd95d4305adfcdbae",
+      "url": "https://zenodo.org/api/records/7541722/files/other.tar/content"
+    },
+    {
+      "key": "21.tar",
+      "size": 482539520,
+      "checksum": "md5:d68d9fb06ec35c47c9cfd182842dcc84",
+      "url": "https://zenodo.org/api/records/7541722/files/21.tar/content"
+    },
+    {
+      "key": "30.tar",
+      "size": 535429120,
+      "checksum": "md5:d9796a0e9d07d6a8374625e686b3075d",
+      "url": "https://zenodo.org/api/records/7541722/files/30.tar/content"
+    },
+    {
+      "key": "20.tar",
+      "size": 491530240,
+      "checksum": "md5:09796154b8da2ea525fd452c5653c267",
+      "url": "https://zenodo.org/api/records/7541722/files/20.tar/content"
+    },
+    {
+      "key": "1.tar",
+      "size": 509143040,
+      "checksum": "md5:6313d691ce2e280bb363681983b2decf",
+      "url": "https://zenodo.org/api/records/7541722/files/1.tar/content"
+    },
+    {
+      "key": "19.tar",
+      "size": 536729600,
+      "checksum": "md5:b0c1c6447ff6689955624a8a10f4e116",
+      "url": "https://zenodo.org/api/records/7541722/files/19.tar/content"
+    },
+    {
+      "key": "38.tar",
+      "size": 545863680,
+      "checksum": "md5:de38f2f4df6ee485c13a49c643ea13dd",
+      "url": "https://zenodo.org/api/records/7541722/files/38.tar/content"
+    },
+    {
+      "key": "18.tar",
+      "size": 563036160,
+      "checksum": "md5:0ba004a57e01a37123bbb2a70f2f68c0",
+      "url": "https://zenodo.org/api/records/7541722/files/18.tar/content"
+    },
+    {
+      "key": "45.tar",
+      "size": 584796160,
+      "checksum": "md5:7c6233a5041c4a87acdd63a743fd594c",
+      "url": "https://zenodo.org/api/records/7541722/files/45.tar/content"
+    },
+    {
+      "key": "14.tar",
+      "size": 594073600,
+      "checksum": "md5:b50cd1140eb44c17dbf7fa363d2c3659",
+      "url": "https://zenodo.org/api/records/7541722/files/14.tar/content"
+    },
+    {
+      "key": "13.tar",
+      "size": 575416320,
+      "checksum": "md5:f7f057e084982f512d14ac5185b1b76a",
+      "url": "https://zenodo.org/api/records/7541722/files/13.tar/content"
+    },
+    {
+      "key": "7.tar",
+      "size": 444887040,
+      "checksum": "md5:bdf1904f71a323ac1abea3defde25f4a",
+      "url": "https://zenodo.org/api/records/7541722/files/7.tar/content"
+    },
+    {
+      "key": "4.tar",
+      "size": 491356160,
+      "checksum": "md5:311c9dd7bcb2adfb25a516306da58371",
+      "url": "https://zenodo.org/api/records/7541722/files/4.tar/content"
+    },
+    {
+      "key": "12.tar",
+      "size": 551833600,
+      "checksum": "md5:b1b49b21769a02e3bbcc66a3627594fd",
+      "url": "https://zenodo.org/api/records/7541722/files/12.tar/content"
+    },
+    {
+      "key": "40.tar",
+      "size": 494284800,
+      "checksum": "md5:34679a04d8c5850014f2dbe97c406431",
+      "url": "https://zenodo.org/api/records/7541722/files/40.tar/content"
+    },
+    {
+      "key": "44.tar",
+      "size": 591534080,
+      "checksum": "md5:e212206091bf61562593d2d2e01d1c04",
+      "url": "https://zenodo.org/api/records/7541722/files/44.tar/content"
+    },
+    {
+      "key": "6.tar",
+      "size": 434360320,
+      "checksum": "md5:b62fa55199f50a1db567ba7a40146530",
+      "url": "https://zenodo.org/api/records/7541722/files/6.tar/content"
+    },
+    {
+      "key": "11.tar",
+      "size": 539473920,
+      "checksum": "md5:4adfa8f9c7af78401cd86974ffcc3cb0",
+      "url": "https://zenodo.org/api/records/7541722/files/11.tar/content"
+    },
+    {
+      "key": "10.tar",
+      "size": 402933760,
+      "checksum": "md5:05f4aebe4eb932ed8b2c4fd5bf65b10e",
+      "url": "https://zenodo.org/api/records/7541722/files/10.tar/content"
+    },
+    {
+      "key": "0.tar",
+      "size": 269844480,
+      "checksum": "md5:ae8a04b847562dfa807863100dc6777d",
+      "url": "https://zenodo.org/api/records/7541722/files/0.tar/content"
+    },
+    {
+      "key": "28.tar",
+      "size": 584755200,
+      "checksum": "md5:39072272f9c6218ea40d122fbf0e5da1",
+      "url": "https://zenodo.org/api/records/7541722/files/28.tar/content"
+    },
+    {
+      "key": "32.tar",
+      "size": 589803520,
+      "checksum": "md5:4d7ade9807695913d4154d88f5b94718",
+      "url": "https://zenodo.org/api/records/7541722/files/32.tar/content"
+    },
+    {
+      "key": "46.tar",
+      "size": 556840960,
+      "checksum": "md5:25ffac24562321ce6c90ea1333ac2899",
+      "url": "https://zenodo.org/api/records/7541722/files/46.tar/content"
+    },
+    {
+      "key": "41.tar",
+      "size": 584427520,
+      "checksum": "md5:80e82123d80916020c984df6c8d7e78e",
+      "url": "https://zenodo.org/api/records/7541722/files/41.tar/content"
+    },
+    {
+      "key": "31.tar",
+      "size": 436490240,
+      "checksum": "md5:ad0e112012e12b40c0573276f2caa25b",
+      "url": "https://zenodo.org/api/records/7541722/files/31.tar/content"
+    }
+  ]
+}

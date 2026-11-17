@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+Thumbs.db
+# Keep the large, licensed dataset and generated outputs out of Git.
+data/raw/
+data/processed/
+data/tmp/
+outputs/
+logs/
+evidence/
